@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListViewAdapterCoffee</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Foods1</item>
+        <item>Foods2</item>
+        <item>Foods3</item>
+        <item>Foods4</item>
+        <item>Foods5</item>
+        <item>Foods6</item>
+        <item>Foods7</item>
+        <item>Foods8</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
